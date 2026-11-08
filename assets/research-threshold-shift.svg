@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="When Thresholds Move">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1120"/><stop offset="1" stop-color="#101c30"/></linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4" stop-opacity="0.85"/><stop offset="1" stop-color="#334155" stop-opacity="0.5"/></linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5eead4" stop-opacity="0.16"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="1" y="1" width="598" height="258" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="url(#bg)"/>
+  <circle cx="560" cy="40" r="200" fill="url(#gl)" clip-path="url(#c)"/>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+  <text x="28" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="2" fill="#5eead4">DIALECT · SCRIPT · CODE-MIXING</text>
+  <rect x="348.5" y="26" width="223.5" height="26" rx="13" fill="none" stroke="#5eead4" stroke-opacity="0.8"/>
+  <text x="460.2" y="43" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1" fill="#5eead4">UNDER REVIEW · ACM TALLIP</text>
+  <text x="28" y="92" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f1f5f9">When Thresholds Move</text>
+  <text x="28" y="120" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cbd5e1">Bangla text classification under shift</text>
+  <text x="28" y="156" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8">The ranking survives, the decision threshold does not.</text><text x="28" y="177" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8">A label-free bias correction recovers much of it.</text>
+  <text x="572" y="214" text-anchor="end" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#fbbf24">0.527 → 0.620</text>
+  <text x="572" y="236" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1" fill="#64748b">MACRO-F1 · 12 OF 21 SHIFTED PAIRS</text>
+  <text x="28" y="234" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#5eead4">CODE + DATA →</text>
+</svg>

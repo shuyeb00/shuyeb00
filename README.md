@@ -1,54 +1,58 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Suheb Ahmed. Multilingual NLP and reliable machine learning. Calibration, distribution shift, code-mixed text.">
+</p>
 
-<img width="100%" alt="Suheb Ahmed" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Suheb%20Ahmed&fontColor=ffffff&fontSize=56&animation=fadeIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/suheb-ahmed-32b6a4392/"><img src="assets/badge-linkedin.svg" height="30" alt="LinkedIn: Suheb Ahmed"></a>&nbsp;
+  <a href="https://orcid.org/0009-0008-8769-9825"><img src="assets/badge-orcid.svg" height="30" alt="ORCID: 0009-0008-8769-9825"></a>&nbsp;
+  <a href="mailto:getsuheb@gmail.com"><img src="assets/badge-email.svg" height="30" alt="Email: getsuheb@gmail.com"></a>
+</p>
 
-<img alt="Bangla NLP, calibration and distribution shift. Classifiers that know when they are guessing. Full-stack builds, from C to Next.js." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1400&color=0EA5E9&center=true&vCenter=true&width=760&height=44&lines=Bangla+NLP%2C+calibration+and+distribution+shift;Classifiers+that+know+when+they+are+guessing;Full-stack+builds%2C+from+C+to+Next.js">
+## About
 
-<sub>Computer Science and Engineering &nbsp;·&nbsp; Metropolitan University, Sylhet, Bangladesh</sub>
+A model can rank every example in the right order and still make the wrong call, because the line it uses to decide
+has quietly moved. That gap is what I study. My work looks at Bangla text classifiers as they meet regional dialects,
+Bangla typed in Latin letters, and text that mixes Bangla, English and Hindi, and asks which parts of their confidence
+can still be trusted. I answer it with controlled experiments, released model outputs, and numbers that trace back to
+code.
 
-<br>
+Outside research I build software end to end, from a language interpreter in C to web platforms in React and Next.js.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suheb%20Ahmed-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suheb-ahmed-32b6a4392/)
-[![Email](https://img.shields.io/badge/Email-getsuheb%40gmail.com-0e7490?style=flat-square&logo=gmail&logoColor=white)](mailto:getsuheb@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8769--9825-1e3a8a?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8769-9825)
+**Now**
 
-<br>
-
-*I build language systems that stay trustworthy when the data stops looking like the training set, and I ship software across the stack.*
-
-</div>
-
-<br>
+- The Bangla threshold-shift study is under review at ACM TALLIP.
+- Extending it into my undergraduate thesis.
+- Final year of Computer Science and Engineering at Metropolitan University, Sylhet.
 
 ## Research
 
-Low-resource and multilingual NLP, confidence calibration, distribution shift, and empirical benchmarking.
+<p align="center">
+  <a href="https://github.com/shuyeb00/bangla-calibration"><img src="assets/research-threshold-shift.svg" width="49%" alt="When Thresholds Move: Bangla text classification under dialect, script and code-mixing shift. Under review at ACM TALLIP."></a>
+  <a href="https://github.com/shuyeb00/knn-distance-metrics-comparative-study"><img src="assets/research-knn-distance.svg" width="49%" alt="Impact of Distance Metrics on KNN Classification. Presented at EFAST 2026."></a>
+</p>
 
-| Work | Status | Links |
-|:--|:--|:--|
-| **When Thresholds Move: Bangla Text Classification Under Dialect, Script and Code-Mixing Shift**<br>Why Bangla classifiers keep their ranking but lose their decision threshold under shift, and what repairs it. | Under review, ACM TALLIP | [Code](https://github.com/shuyeb00/bangla-calibration) · [Data](https://doi.org/10.5281/zenodo.24057514) |
-| **Impact of Distance Metrics on KNN Classification**<br>How preprocessing and dimensionality decide which distance metric wins. | Presented at EFAST 2026 | [Code](https://github.com/shuyeb00/knn-distance-metrics-comparative-study) |
+Model outputs for the threshold-shift study are archived on Zenodo: [doi:10.5281/zenodo.24057514](https://doi.org/10.5281/zenodo.24057514).
 
-## Selected projects
+## Projects
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [**AirSlice**](https://github.com/shuyeb00/AirSlice) | Webcam-controlled game with real-time colour tracking | C++, OpenGL |
-| [**Rabona**](https://github.com/shuyeb00/rabona-lang) | An interpreted programming language with its own lexer and parser | C, Flex, Bison |
-| [**SmartCare**](https://github.com/shuyeb00/smartcare) | Doctor search and appointment booking platform | React, Node.js, Express, MySQL |
-| [**KeenKeeper**](https://github.com/shuyeb00/KeenKeeper) | Personal relationship manager with analytics ([live](https://keen-keeper-eight-flax.vercel.app/)) | Next.js, Tailwind CSS |
+<p align="center">
+  <a href="https://github.com/shuyeb00/AirSlice"><img src="assets/project-airslice.svg" width="49%" alt="AirSlice: webcam-controlled game with real-time colour tracking. C++, OpenGL."></a>
+  <a href="https://github.com/shuyeb00/rabona-lang"><img src="assets/project-rabona.svg" width="49%" alt="Rabona: an interpreted language with its own lexer and parser. C, Flex, Bison."></a>
+  <a href="https://github.com/shuyeb00/smartcare"><img src="assets/project-smartcare.svg" width="49%" alt="SmartCare: doctor search and appointment booking platform. React, Node.js, Express, MySQL."></a>
+  <a href="https://keen-keeper-eight-flax.vercel.app/"><img src="assets/project-keenkeeper.svg" width="49%" alt="KeenKeeper: relationship manager with analytics. Next.js, Tailwind CSS."></a>
+</p>
 
-## Stack
+## Toolkit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,cpp,java,js,pytorch,sklearn,react,nextjs,nodejs,express,mysql,tailwind,git,linux&theme=dark&perline=15">
-    <img alt="Python, C, C++, Java, JavaScript, PyTorch, scikit-learn, React, Next.js, Node.js, Express, MySQL, Tailwind CSS, Git, Linux" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,pytorch,sklearn,react,nextjs,nodejs,express,mysql,tailwind,git,linux&theme=light&perline=15">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,c,cpp,java,js,react,nextjs,nodejs,express,mysql,tailwind,git,linux&theme=dark&perline=15">
+    <img alt="Python, PyTorch, scikit-learn, C, C++, Java, JavaScript, React, Next.js, Node.js, Express, MySQL, Tailwind CSS, Git, Linux" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,c,cpp,java,js,react,nextjs,nodejs,express,mysql,tailwind,git,linux&theme=light&perline=15">
   </picture>
 </p>
 
-<div align="center">
-<sub>1,000+ competitive programming problems solved</sub>
-</div>
+<p align="center"><sub>Also Hugging Face Transformers for NLP, and 1,000+ competitive programming problems solved.</sub></p>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:06b6d4,50:1e3a8a,100:0f172a">
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Open code, open data, every number traced to its source.">
+</p>

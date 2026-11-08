@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="Which Distance Wins?">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1120"/><stop offset="1" stop-color="#101c30"/></linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.85"/><stop offset="1" stop-color="#334155" stop-opacity="0.5"/></linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.16"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="1" y="1" width="598" height="258" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="url(#bg)"/>
+  <circle cx="560" cy="40" r="200" fill="url(#gl)" clip-path="url(#c)"/>
+  <rect x="1" y="1" width="598" height="258" rx="18" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+  <text x="28" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="2" fill="#38bdf8">CLASSICAL ML · BENCHMARKING</text>
+  <rect x="467.0" y="26" width="105.0" height="26" rx="13" fill="none" stroke="#38bdf8" stroke-opacity="0.8"/>
+  <text x="519.5" y="43" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1" fill="#38bdf8">EFAST 2026</text>
+  <text x="28" y="92" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f1f5f9">Which Distance Wins?</text>
+  <text x="28" y="120" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cbd5e1">Impact of Distance Metrics on KNN Classification</text>
+  <text x="28" y="156" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8">Preprocessing and dimensionality decide</text><text x="28" y="177" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8">which distance metric comes out on top.</text>
+  <circle cx="505" cy="196" r="40" fill="none" stroke="#38bdf8" stroke-opacity="0.7" stroke-dasharray="4 4"><animate attributeName="r" values="34;46;34" dur="5s" repeatCount="indefinite"/></circle><circle cx="478" cy="180" r="4.5" fill="#38bdf8"/><circle cx="522" cy="178" r="4.5" fill="#38bdf8"/><circle cx="486" cy="214" r="4.5" fill="#38bdf8"/><circle cx="530" cy="206" r="4.5" fill="#38bdf8"/><circle cx="508" cy="164" r="4.5" fill="#38bdf8"/><circle cx="440" cy="160" r="4.5" fill="#475569"/><circle cx="566" cy="160" r="4.5" fill="#475569"/><circle cx="444" cy="228" r="4.5" fill="#475569"/><circle cx="566" cy="226" r="4.5" fill="#475569"/><circle cx="502" cy="242" r="4.5" fill="#475569"/><circle cx="505" cy="196" r="6" fill="#fbbf24"/>
+  <text x="28" y="234" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#38bdf8">CODE →</text>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="30" viewBox="0 0 235 30" role="img" aria-label="EMAIL: GETSUHEB@GMAIL.COM">
+  <rect x="0.5" y="0.5" width="234" height="29" rx="8" fill="#111827" stroke="#334155"/>
+  <path d="M72.5,1 H226.6 A7.5,7.5 0 0 1 234.1,8.5 V21.5 A7.5,7.5 0 0 1 226.6,29 H72.5 Z" fill="#fbbf24"/>
+  <g transform="translate(11,8)"><rect x="0" y="2" width="14" height="10" rx="2" fill="none" stroke="#e2e8f0" stroke-width="1.4"/><path d="M1,3 L7,8 L13,3" fill="none" stroke="#e2e8f0" stroke-width="1.4"/></g>
+  <text x="30" y="19.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#cbd5e1">EMAIL</text>
+  <text x="84.5" y="19.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#0a1120">GETSUHEB@GMAIL.COM</text>
+</svg>

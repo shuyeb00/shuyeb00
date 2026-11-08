@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="30" viewBox="0 0 243 30" role="img" aria-label="ORCID: 0009-0008-8769-9825">
+  <rect x="0.5" y="0.5" width="242" height="29" rx="8" fill="#111827" stroke="#334155"/>
+  <path d="M72.5,1 H234.3 A7.5,7.5 0 0 1 241.8,8.5 V21.5 A7.5,7.5 0 0 1 234.3,29 H72.5 Z" fill="#5eead4"/>
+  <g transform="translate(11,8)"><circle cx="7" cy="7" r="6.5" fill="none" stroke="#e2e8f0" stroke-width="1.4"/><text x="2.4" y="10.3" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="7.5" font-weight="700" fill="#e2e8f0">iD</text></g>
+  <text x="30" y="19.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#cbd5e1">ORCID</text>
+  <text x="84.5" y="19.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#0a1120">0009-0008-8769-9825</text>
+</svg>
