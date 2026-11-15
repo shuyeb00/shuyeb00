@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="Now: WHEN THRESHOLDS MOVE · UNDER REVIEW AT ACM TALLIP; KNN DISTANCE METRICS · PRESENTED AT EFAST 2026; B.SC. THESIS IN PROGRESS; NEW MODEL-LINEAGE PROJECT COOKING; 1,000+ CP PROBLEMS SOLVED">
+<rect x="0" y="0" width="1200" height="58" rx="14" fill="#c8ff3d" stroke="#120d26" stroke-width="3"/>
+<clipPath id="c"><rect x="3" y="3" width="1194" height="52" rx="12"/></clipPath>
+<g clip-path="url(#c)"><g>
+<text x="20" y="36" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#120d26" textLength="2280" lengthAdjust="spacingAndGlyphs">WHEN THRESHOLDS MOVE · UNDER REVIEW AT ACM TALLIP   ★   KNN DISTANCE METRICS · PRESENTED AT EFAST 2026   ★   B.SC. THESIS IN PROGRESS   ★   NEW MODEL-LINEAGE PROJECT COOKING   ★   1,000+ CP PROBLEMS SOLVED   ★   </text>
+<text x="2320" y="36" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="700" fill="#120d26" textLength="2280" lengthAdjust="spacingAndGlyphs">WHEN THRESHOLDS MOVE · UNDER REVIEW AT ACM TALLIP   ★   KNN DISTANCE METRICS · PRESENTED AT EFAST 2026   ★   B.SC. THESIS IN PROGRESS   ★   NEW MODEL-LINEAGE PROJECT COOKING   ★   1,000+ CP PROBLEMS SOLVED   ★   </text>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-2300 0" dur="32s" repeatCount="indefinite"/>
+</g></g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="1 paper under review at ACM TALLIP; 1 paper presented at EFAST 2026; 21 shift pairs tested; 1,000+ competitive programming problems solved">
+<g transform="rotate(-1.5 145.0 70)">
+<rect x="12" y="18" width="272" height="112" rx="16" fill="#ff4fa3"/>
+<rect x="4" y="10" width="272" height="112" rx="16" fill="#1c1540" stroke="#fff4e0" stroke-width="2.5"/>
+<text x="26" y="72" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" fill="#ff4fa3">1</text>
+<text x="26" y="96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#fff4e0">PAPER UNDER REVIEW</text>
+<text x="26" y="114" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#b9b0da">ACM TALLIP</text>
+</g>
+<g transform="rotate(1.2 451.0 70)">
+<rect x="318" y="18" width="272" height="112" rx="16" fill="#3de0ff"/>
+<rect x="310" y="10" width="272" height="112" rx="16" fill="#1c1540" stroke="#fff4e0" stroke-width="2.5"/>
+<text x="332" y="72" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" fill="#3de0ff">1</text>
+<text x="332" y="96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#fff4e0">PAPER PRESENTED</text>
+<text x="332" y="114" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#b9b0da">EFAST 2026</text>
+</g>
+<g transform="rotate(-1 757.0 70)">
+<rect x="624" y="18" width="272" height="112" rx="16" fill="#c8ff3d"/>
+<rect x="616" y="10" width="272" height="112" rx="16" fill="#1c1540" stroke="#fff4e0" stroke-width="2.5"/>
+<text x="638" y="72" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" fill="#c8ff3d">21</text>
+<text x="638" y="96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#fff4e0">SHIFT PAIRS TESTED</text>
+<text x="638" y="114" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#b9b0da">dialect · script · code-mix</text>
+</g>
+<g transform="rotate(1.5 1063.0 70)">
+<rect x="930" y="18" width="272" height="112" rx="16" fill="#ff8a3d"/>
+<rect x="922" y="10" width="272" height="112" rx="16" fill="#1c1540" stroke="#fff4e0" stroke-width="2.5"/>
+<text x="944" y="72" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" fill="#ff8a3d">1K+</text>
+<text x="944" y="96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#fff4e0">CP PROBLEMS SOLVED</text>
+<text x="944" y="114" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#b9b0da">C++ · Codeforces</text>
+</g>
+</svg>

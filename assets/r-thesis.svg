@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="B.Sc. thesis: When can Bangla text classifiers be trusted? In progress.">
+<defs><pattern id="d" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10.0" cy="10.0" r="1.1" fill="#2c2358"/></pattern><clipPath id="c"><rect x="2" y="2" width="582" height="282" rx="20"/></clipPath></defs>
+<rect x="14" y="14" width="582" height="282" rx="20" fill="#c8ff3d"/>
+<rect x="2" y="2" width="582" height="282" rx="20" fill="#1c1540"/>
+<g clip-path="url(#c)"><rect x="2" y="2" width="582" height="282" fill="url(#d)" opacity="0.6"/><circle cx="560" cy="20" r="110" fill="#c8ff3d" opacity="0.10"/></g>
+<rect x="2" y="2" width="582" height="282" rx="20" fill="none" stroke="#fff4e0" stroke-width="3"/>
+<text x="28" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#c8ff3d">B.SC. THESIS · METROPOLITAN UNIVERSITY</text>
+<g transform="translate(475.7 25) rotate(4 42.14 12)"><g><rect x="3" y="3" width="84.3" height="24" rx="12.0" fill="#120d26"/><rect x="0" y="0" width="84.3" height="24" rx="12.0" fill="#c8ff3d" stroke="#120d26" stroke-width="2"/><text x="42.14" y="15.96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">WRITING</text></g></g>
+<text x="28" y="92" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" fill="#fff4e0">When Can They Be Trusted?</text>
+<text x="28" y="120" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#c8ff3d">Bangla classifiers: calibration, ranking, threshold</text>
+<text x="28" y="156" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9b0da">The threshold-shift study, grown into ten chapters</text>
+<text x="28" y="178" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9b0da">with a deployment triage and a stated label budget.</text>
+<text x="558" y="230" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" text-anchor="end" fill="#c8ff3d">10 CH.</text>
+<text x="558" y="252" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1" fill="#b9b0da">LATEX · TABLES REBUILT FROM CODE</text>
+<g><rect x="31" y="235" width="203.6" height="26" rx="13.0" fill="#120d26"/><rect x="28" y="232" width="203.6" height="26" rx="13.0" fill="#c8ff3d" stroke="#120d26" stroke-width="2"/><text x="129.78" y="249.14" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">PRIVATE · IN PROGRESS</text></g>
+</svg>

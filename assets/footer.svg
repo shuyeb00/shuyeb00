@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Open code, open data, every number traced to its source">
-  <defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset="0.5" stop-color="#5eead4"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></linearGradient></defs>
-  <rect x="200" y="18" width="800" height="1.5" fill="url(#ln)"/>
-  <text x="600" y="55" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="2.5" fill="#64748b">OPEN CODE · OPEN DATA · EVERY NUMBER TRACED TO ITS SOURCE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Open code, open data, every number traced to its source.">
+<rect x="12" y="14" width="1180" height="84" rx="20" fill="#3de0ff"/>
+<rect x="2" y="4" width="1180" height="84" rx="20" fill="#120d26" stroke="#fff4e0" stroke-width="3"/>
+<text x="592" y="42" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="2" fill="#fff4e0">OPEN CODE · OPEN DATA · EVERY NUMBER TRACED TO ITS SOURCE</text>
+<text x="592" y="68" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#b9b0da">thanks for scrolling this far ✦ say hi anytime</text>
+<polygon points="60.0,30.0 64.8,41.2 76.0,46.0 64.8,50.8 60.0,62.0 55.2,50.8 44.0,46.0 55.2,41.2" fill="#ff4fa3"><animateTransform attributeName="transform" type="rotate" from="0 60 46" to="360 60 46" dur="8s" repeatCount="indefinite"/></polygon>
+<polygon points="1124.0,30.0 1128.8,41.2 1140.0,46.0 1128.8,50.8 1124.0,62.0 1119.2,50.8 1108.0,46.0 1119.2,41.2" fill="#c8ff3d"><animateTransform attributeName="transform" type="rotate" from="0 1124 46" to="-360 1124 46" dur="8s" repeatCount="indefinite"/></polygon>
 </svg>

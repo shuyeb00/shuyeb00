@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="KeenKeeper: relationship manager with analytics, live on Vercel. Next.js, Tailwind CSS.">
+<defs><pattern id="d" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10.0" cy="10.0" r="1.1" fill="#2c2358"/></pattern><clipPath id="c"><rect x="2" y="2" width="582" height="282" rx="20"/></clipPath></defs>
+<rect x="14" y="14" width="582" height="282" rx="20" fill="#ff4fa3"/>
+<rect x="2" y="2" width="582" height="282" rx="20" fill="#1c1540"/>
+<g clip-path="url(#c)"><rect x="2" y="2" width="582" height="282" fill="url(#d)" opacity="0.6"/><circle cx="525" cy="215" r="38" fill="none" stroke="#ff4fa3" stroke-width="16" opacity="0.35" stroke-dasharray="150 89"/><circle cx="525" cy="215" r="38" fill="none" stroke="#c8ff3d" stroke-width="16" opacity="0.35" stroke-dasharray="60 179" stroke-dashoffset="-150"/></g>
+<rect x="2" y="2" width="582" height="282" rx="20" fill="none" stroke="#fff4e0" stroke-width="3"/>
+<text x="28" y="44" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#ff4fa3">NEXT.JS · ANALYTICS</text>
+<g transform="translate(419.4 25) rotate(4 70.28 12)"><g><rect x="3" y="3" width="140.6" height="24" rx="12.0" fill="#120d26"/><rect x="0" y="0" width="140.6" height="24" rx="12.0" fill="#ff4fa3" stroke="#120d26" stroke-width="2"/><text x="70.28" y="15.96" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">LIVE ON VERCEL</text></g></g>
+<text x="28" y="92" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" fill="#fff4e0">KeenKeeper</text>
+<text x="28" y="120" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#ff4fa3">A relationship manager for your friends</text>
+<text x="28" y="156" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9b0da">Check-in logging, overdue tracking, a timeline</text>
+<text x="28" y="178" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9b0da">and a friendship analytics donut chart.</text>
+<g><rect x="31" y="235" width="195.2" height="26" rx="13.0" fill="#120d26"/><rect x="28" y="232" width="195.2" height="26" rx="13.0" fill="#ff4fa3" stroke="#120d26" stroke-width="2"/><text x="125.60000000000001" y="249.14" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">NEXT.JS · TAILWIND →</text></g>
+</svg>
