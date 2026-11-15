@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="54" viewBox="0 0 250 54" role="img" aria-label="LINKEDIN: Suheb Ahmed">
-<rect x="6" y="6" width="242" height="46" rx="12" fill="#120d26"/>
-<rect x="1" y="1" width="242" height="46" rx="12" fill="#3de0ff" stroke="#120d26" stroke-width="2.5"/>
-<rect x="10" y="9" width="30" height="30" rx="8" fill="#120d26"/>
-<text x="25" y="30" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="900" text-anchor="middle" fill="#3de0ff">in</text>
-<text x="52" y="22" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#120d26">LINKEDIN</text>
-<text x="52" y="39" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="800" fill="#120d26">Suheb Ahmed</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="50" viewBox="0 0 240 50" role="img" aria-label="LINKEDIN: Suheb Ahmed">
+<rect x="1" y="1" width="236" height="46" rx="12" fill="#10141d" stroke="#232b3b" stroke-width="1.5"/>
+<rect x="10" y="9" width="30" height="30" rx="8" fill="none" stroke="#7cc4fa" stroke-width="1.4"/>
+<text x="25" y="29.5" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#7cc4fa">in</text>
+<text x="52" y="21" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#7cc4fa">LINKEDIN</text>
+<text x="52" y="38" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e9ecf2">Suheb Ahmed</text>
 </svg>

@@ -1,45 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Suheb Ahmed. Multilingual NLP and reliable machine learning: calibration, distribution shift, code-mixed text.">
-<defs><pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11.0" cy="11.0" r="1.3" fill="#2c2358"/></pattern><clipPath id="frame"><rect x="8" y="8" width="1172" height="392" rx="26"/></clipPath><linearGradient id="src" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3de0ff" stop-opacity="0.55"/><stop offset="1" stop-color="#3de0ff" stop-opacity="0"/></linearGradient><linearGradient id="tgt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff4fa3" stop-opacity="0.6"/><stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/></linearGradient></defs>
-<rect x="20" y="20" width="1172" height="392" rx="26" fill="#ff4fa3"/>
-<rect x="8" y="8" width="1172" height="392" rx="26" fill="#120d26"/>
-<g clip-path="url(#frame)">
-<rect x="8" y="8" width="1172" height="392" fill="url(#d)"/>
-<circle cx="1120" cy="40" r="150" fill="#a98bff" opacity="0.18"><animate attributeName="r" values="150;170;150" dur="9s" repeatCount="indefinite"/></circle>
-<circle cx="60" cy="400" r="130" fill="#3de0ff" opacity="0.10"><animate attributeName="r" values="130;150;130" dur="11s" repeatCount="indefinite"/></circle>
-</g>
-<rect x="8" y="8" width="1172" height="392" rx="26" fill="none" stroke="#fff4e0" stroke-width="3"/>
-<text x="58" y="76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#c8ff3d">// MULTILINGUAL NLP × RELIABLE ML</text>
-<text x="59" y="175" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#ff4fa3">Suheb</text>
-<text x="59" y="269" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#ff4fa3">Ahmed.</text>
-<text x="52" y="168" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#fff4e0">Suheb</text>
-<text x="52" y="262" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#fff4e0">Ahmed.</text>
-<path d="M60,298 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0 q6.0,-6 12.0,0 t12.0,0" fill="none" stroke="#3de0ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="36 12"><animate attributeName="stroke-dashoffset" values="0;-48" dur="2.4s" repeatCount="indefinite"/></path>
-<text x="60" y="338" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#fff4e0">Teaching classifiers to notice when the ground moves.</text>
-<text x="60" y="368" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14.5" fill="#b9b0da">calibration · distribution shift · code-mixed text</text>
-<g transform="rotate(-3 910.0 205.0)">
-<rect x="700" y="80" width="440" height="270" rx="18" fill="#3de0ff"/>
-<rect x="690" y="70" width="440" height="270" rx="18" fill="#1c1540" stroke="#fff4e0" stroke-width="3"/>
-<circle cx="714" cy="94" r="6" fill="#ff4fa3"/>
-<circle cx="734" cy="94" r="6" fill="#ff8a3d"/>
-<circle cx="754" cy="94" r="6" fill="#c8ff3d"/>
-<text x="1110" y="99" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" text-anchor="end" fill="#b9b0da">threshold_shift.py</text>
-<line x1="690" y1="114" x2="1130" y2="114" stroke="#2c2358" stroke-width="2"/>
-<line x1="720" y1="290" x2="1100" y2="290" stroke="#b9b0da" stroke-width="2"/>
-<polygon points="720,290 720.0,287.5 726.3,286.4 732.7,284.9 739.0,283.0 745.3,280.4 751.7,277.2 758.0,273.1 764.3,268.2 770.7,262.2 777.0,255.3 783.3,247.4 789.7,238.5 796.0,228.9 802.3,218.8 808.7,208.4 815.0,198.1 821.3,188.3 827.7,179.5 834.0,171.9 840.3,165.9 846.7,161.9 853.0,160.1 859.3,160.5 865.7,163.2 872.0,167.9 878.3,174.5 884.7,182.6 891.0,191.9 897.3,201.9 903.7,212.2 910.0,222.6 916.3,232.5 922.7,241.9 929.0,250.4 935.3,258.0 941.7,264.5 948.0,270.1 954.3,274.7 960.7,278.5 967.0,281.5 973.3,283.8 979.7,285.5 986.0,286.9 992.3,287.8 998.7,288.5 1005.0,289.0 1011.3,289.4 1017.7,289.6 1024.0,289.7 1030.3,289.8 1036.7,289.9 1043.0,289.9 1049.3,290.0 1055.7,290.0 1062.0,290.0 1068.3,290.0 1074.7,290.0 1081.0,290.0 1087.3,290.0 1093.7,290.0 1100.0,290.0 1100,290" fill="url(#src)"/>
-<polyline points="720.0,287.5 726.3,286.4 732.7,284.9 739.0,283.0 745.3,280.4 751.7,277.2 758.0,273.1 764.3,268.2 770.7,262.2 777.0,255.3 783.3,247.4 789.7,238.5 796.0,228.9 802.3,218.8 808.7,208.4 815.0,198.1 821.3,188.3 827.7,179.5 834.0,171.9 840.3,165.9 846.7,161.9 853.0,160.1 859.3,160.5 865.7,163.2 872.0,167.9 878.3,174.5 884.7,182.6 891.0,191.9 897.3,201.9 903.7,212.2 910.0,222.6 916.3,232.5 922.7,241.9 929.0,250.4 935.3,258.0 941.7,264.5 948.0,270.1 954.3,274.7 960.7,278.5 967.0,281.5 973.3,283.8 979.7,285.5 986.0,286.9 992.3,287.8 998.7,288.5 1005.0,289.0 1011.3,289.4 1017.7,289.6 1024.0,289.7 1030.3,289.8 1036.7,289.9 1043.0,289.9 1049.3,290.0 1055.7,290.0 1062.0,290.0 1068.3,290.0 1074.7,290.0 1081.0,290.0 1087.3,290.0 1093.7,290.0 1100.0,290.0" fill="none" stroke="#3de0ff" stroke-width="3"/>
-<g><polygon points="720,290 720.0,290.0 726.3,290.0 732.7,290.0 739.0,290.0 745.3,290.0 751.7,290.0 758.0,289.9 764.3,289.9 770.7,289.8 777.0,289.8 783.3,289.6 789.7,289.4 796.0,289.2 802.3,288.8 808.7,288.3 815.0,287.5 821.3,286.6 827.7,285.3 834.0,283.6 840.3,281.5 846.7,278.8 853.0,275.6 859.3,271.6 865.7,266.8 872.0,261.3 878.3,255.0 884.7,248.0 891.0,240.2 897.3,231.9 903.7,223.3 910.0,214.4 916.3,205.7 922.7,197.3 929.0,189.5 935.3,182.8 941.7,177.2 948.0,173.2 954.3,170.7 960.7,170.0 967.0,171.1 973.3,173.9 979.7,178.3 986.0,184.1 992.3,191.1 998.7,199.0 1005.0,207.5 1011.3,216.3 1017.7,225.1 1024.0,233.7 1030.3,241.9 1036.7,249.5 1043.0,256.4 1049.3,262.6 1055.7,267.9 1062.0,272.5 1068.3,276.3 1074.7,279.4 1081.0,282.0 1087.3,284.0 1093.7,285.6 1100.0,286.8 1100,290" fill="url(#tgt)"/><polyline points="720.0,290.0 726.3,290.0 732.7,290.0 739.0,290.0 745.3,290.0 751.7,290.0 758.0,289.9 764.3,289.9 770.7,289.8 777.0,289.8 783.3,289.6 789.7,289.4 796.0,289.2 802.3,288.8 808.7,288.3 815.0,287.5 821.3,286.6 827.7,285.3 834.0,283.6 840.3,281.5 846.7,278.8 853.0,275.6 859.3,271.6 865.7,266.8 872.0,261.3 878.3,255.0 884.7,248.0 891.0,240.2 897.3,231.9 903.7,223.3 910.0,214.4 916.3,205.7 922.7,197.3 929.0,189.5 935.3,182.8 941.7,177.2 948.0,173.2 954.3,170.7 960.7,170.0 967.0,171.1 973.3,173.9 979.7,178.3 986.0,184.1 992.3,191.1 998.7,199.0 1005.0,207.5 1011.3,216.3 1017.7,225.1 1024.0,233.7 1030.3,241.9 1036.7,249.5 1043.0,256.4 1049.3,262.6 1055.7,267.9 1062.0,272.5 1068.3,276.3 1074.7,279.4 1081.0,282.0 1087.3,284.0 1093.7,285.6 1100.0,286.8" fill="none" stroke="#ff4fa3" stroke-width="3"/><animateTransform attributeName="transform" type="translate" values="-60 0;0 0;0 0;-60 0" keyTimes="0;0.4;0.7;1" dur="7s" repeatCount="indefinite"/></g>
-<g><line x1="900" y1="132" x2="900" y2="290" stroke="#c8ff3d" stroke-width="3" stroke-dasharray="7 6"/><text x="908" y="146" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#c8ff3d">τ</text><animateTransform attributeName="transform" type="translate" values="0 0;0 0;48 0;48 0;0 0" keyTimes="0;0.4;0.55;0.85;1" dur="7s" repeatCount="indefinite"/></g>
-<text x="720" y="314" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" fill="#3de0ff">source</text>
-<text x="1100" y="314" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" text-anchor="end" fill="#ff4fa3">target</text>
-<text x="910.0" y="314" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" text-anchor="middle" fill="#c8ff3d">same ranking, moved τ</text>
-</g>
-<g transform="rotate(-8 619.0 53.0)"><rect x="563" y="43" width="118.0" height="26" rx="13.0" fill="#120d26"/><rect x="560" y="40" width="118.0" height="26" rx="13.0" fill="#c8ff3d" stroke="#120d26" stroke-width="2"/><text x="619.0" y="57.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">BANGLA NLP</text></g>
-<g transform="rotate(6 1063.5 371.0)"><rect x="1003" y="361" width="127.0" height="26" rx="13.0" fill="#120d26"/><rect x="1000" y="358" width="127.0" height="26" rx="13.0" fill="#ff8a3d" stroke="#120d26" stroke-width="2"/><text x="1063.5" y="375.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" text-anchor="middle" letter-spacing="1" fill="#120d26">SYLHET · BD</text></g>
-<g><g><rect x="523" y="131" width="75.5" height="32" rx="16.0" fill="#120d26"/><rect x="520" y="128" width="75.5" height="32" rx="16.0" fill="#3de0ff" stroke="#120d26" stroke-width="2"/><text x="557.75" y="149.4" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" fill="#120d26">বাংলা</text></g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.2s" begin="0s" repeatCount="indefinite"/></g>
-<g><g><rect x="548" y="195" width="104.0" height="32" rx="16.0" fill="#120d26"/><rect x="545" y="192" width="104.0" height="32" rx="16.0" fill="#ff4fa3" stroke="#120d26" stroke-width="2"/><text x="597.0" y="213.4" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" fill="#120d26">Banglish</text></g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></g>
-<g><g><rect x="521" y="261" width="85.0" height="32" rx="16.0" fill="#120d26"/><rect x="518" y="258" width="85.0" height="32" rx="16.0" fill="#a98bff" stroke="#120d26" stroke-width="2"/><text x="560.5" y="279.4" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" fill="#120d26">हिन्दी</text></g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></g>
-<polygon points="470.0,40.0 475.3,52.7 488.0,58.0 475.3,63.3 470.0,76.0 464.7,63.3 452.0,58.0 464.7,52.7" fill="#ff8a3d"><animateTransform attributeName="transform" type="rotate" from="0 470 58" to="360 470 58" dur="12s" repeatCount="indefinite"/></polygon>
-<polygon points="1150.0,286.0 1154.2,295.8 1164.0,300.0 1154.2,304.2 1150.0,314.0 1145.8,304.2 1136.0,300.0 1145.8,295.8" fill="#c8ff3d"><animateTransform attributeName="transform" type="rotate" from="0 1150 300" to="-360 1150 300" dur="10s" repeatCount="indefinite"/></polygon>
-<polygon points="640.0,361.0 643.3,368.7 651.0,372.0 643.3,375.3 640.0,383.0 636.7,375.3 629.0,372.0 636.7,368.7" fill="#ff4fa3"><animateTransform attributeName="transform" type="rotate" from="0 640 372" to="360 640 372" dur="9s" repeatCount="indefinite"/></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Suheb Ahmed. B.Sc. in Computer Science and Engineering. Reliable ML, multilingual NLP, software that ships. Research: When Thresholds Move; Distance Metrics in KNN; Phylogenetics of Open Models. Builds: AirSlice, Rabona, SmartCare, KeenKeeper.">
+<defs><pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12.0" cy="12.0" r="1" fill="#1a2130"/></pattern><clipPath id="f"><rect x="2" y="2" width="1186" height="386" rx="22"/></clipPath><linearGradient id="u" x1="0" x2="1"><stop offset="0" stop-color="#7cc4fa"/><stop offset="0.5" stop-color="#a99cf5"/><stop offset="1" stop-color="#f2a68a"/></linearGradient></defs>
+<rect x="12" y="12" width="1186" height="386" rx="22" fill="none" stroke="#a99cf5" stroke-opacity="0.45" stroke-width="1.3"/>
+<rect x="2" y="2" width="1186" height="386" rx="22" fill="#0b0e14"/>
+<g clip-path="url(#f)"><rect width="1200" height="400" fill="url(#d)"/><circle cx="1100" cy="30" r="220" fill="#a99cf5" opacity="0.05"/><circle cx="80" cy="390" r="200" fill="#7cc4fa" opacity="0.05"/></g>
+<rect x="2" y="2" width="1186" height="386" rx="22" fill="none" stroke="#232b3b" stroke-width="1.5"/>
+<path d="M24,30 h12 M30,24 v12" stroke="#5b6478" stroke-width="1.4"/>
+<path d="M1154,30 h12 M1160,24 v12" stroke="#5b6478" stroke-width="1.4"/>
+<path d="M24,360 h12 M30,354 v12" stroke="#5b6478" stroke-width="1.4"/>
+<path d="M1154,360 h12 M1160,354 v12" stroke="#5b6478" stroke-width="1.4"/>
+<text x="64" y="92" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#7cc4fa">B.SC. IN COMPUTER SCIENCE &amp; ENGINEERING</text>
+<text x="60" y="172" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-1.5" fill="#e9ecf2">Suheb Ahmed</text>
+<rect x="64" y="196" width="150" height="3" rx="1.5" fill="url(#u)"><animate attributeName="width" values="150;230;150" dur="7s" repeatCount="indefinite"/></rect>
+<text x="64" y="246" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500" fill="#e9ecf2">Reliable ML  ·  Multilingual NLP  ·  Software that ships</text>
+<text x="64" y="278" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14.5" fill="#8a93a8">Metropolitan University, Sylhet, Bangladesh</text>
+<text x="64" y="330" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#5b6478">&gt; building models you can trust, and tools people use</text>
+<rect x="530" y="318" width="9" height="16" fill="#7cc4fa"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="708" y="46" width="432" height="300" rx="16" fill="#10141d" stroke="#232b3b" stroke-width="1.5"/>
+<text x="730" y="78" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="2.5" fill="#8a93a8">INDEX</text>
+<text x="1118" y="78" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="end" fill="#5b6478">research + builds</text>
+<line x1="708" y1="94" x2="1140" y2="94" stroke="#232b3b" stroke-width="1.2"/>
+<circle cx="736" cy="119" r="4" fill="#7cc4fa"/>
+<text x="750" y="124" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#7cc4fa">R1</text>
+<text x="780" y="124" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">When Thresholds Move</text>
+<text x="1118" y="124" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">bangla nlp</text>
+<circle cx="736" cy="150" r="4" fill="#a99cf5"/>
+<text x="750" y="155" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#a99cf5">R2</text>
+<text x="780" y="155" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">Distance Metrics in KNN</text>
+<text x="1118" y="155" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">classical ml</text>
+<circle cx="736" cy="181" r="4" fill="#f2a68a"/>
+<text x="750" y="186" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#f2a68a">R3</text>
+<text x="780" y="186" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">Phylogenetics of Open Models</text>
+<text x="1118" y="186" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">llms</text>
+<circle cx="1007.6" cy="181" r="3.5" fill="#f2a68a"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<line x1="730" y1="205" x2="1118" y2="205" stroke="#232b3b" stroke-dasharray="3 5"/>
+<circle cx="736" cy="224" r="4" fill="#7cc4fa"/>
+<text x="750" y="229" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#7cc4fa">B1</text>
+<text x="780" y="229" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">AirSlice</text>
+<text x="1118" y="229" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">c++ · opengl</text>
+<circle cx="736" cy="255" r="4" fill="#a99cf5"/>
+<text x="750" y="260" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#a99cf5">B2</text>
+<text x="780" y="260" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">Rabona</text>
+<text x="1118" y="260" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">c · flex · bison</text>
+<circle cx="736" cy="286" r="4" fill="#f2a68a"/>
+<text x="750" y="291" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#f2a68a">B3</text>
+<text x="780" y="291" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">SmartCare</text>
+<text x="1118" y="291" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">react · express · mysql</text>
+<circle cx="736" cy="317" r="4" fill="#d9c8a0"/>
+<text x="750" y="322" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#d9c8a0">B4</text>
+<text x="780" y="322" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e9ecf2">KeenKeeper</text>
+<text x="1118" y="322" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" text-anchor="end" fill="#5b6478">next.js · tailwind</text>
 </svg>
